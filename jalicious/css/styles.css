@@ -1,0 +1,39 @@
+#navigation .navbar {
+  background:rgba(255, 255, 255, 0.952941);
+  border-radius: 0;
+  border-bottom: 0;
+  box-shadow: rgba(0, 0, 0, 0.298039) 0px 0px 3px;
+  padding-bottom: 8px;
+}
+
+.navbar-nav.navbar-right{
+    font-family: 'Roboto' ,'sans-serif';
+}
+
+.content{
+    padding-top: 70px;
+}
+
+.navbar-default{
+    background-color: white;
+   
+}
+
+.navbar-brand {
+  margin-left: 0px;
+  margin:0;
+    
+}
+
+.dropdown-toggle: hover{
+    background-color: #EBEBEB;
+    border-color: #EBEBEB;
+    color: #4E4E4E;
+}
+
+#navigation .navbar-inverse .navbar-nav  .active  a,  
+#navigation .navbar-inverse .navbar-nav  .active  a:focus, 
+#navigation .navbar-nav.navbar-right li a:hover {
+	color: #fff;
+	background-color: #ee715e;
+}
