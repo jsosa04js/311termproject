@@ -1,3 +1,7 @@
 //How dare you
 //Yes, I dare
+<<<<<<< Updated upstream
 //you rebel, i like you
+=======
+//We Da Best
+>>>>>>> Stashed changes
